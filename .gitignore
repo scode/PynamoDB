@@ -58,3 +58,6 @@ nosetests.xml
 
 # PyCharm
 .idea/
+
+# Ignore Cache
+.cache/
