@@ -1,5 +1,6 @@
 sphinx-rtd-theme==0.1.8
 botocore==1.1.2
+flake8==2.4.1
 requests==2.7.0
 six==1.8.0
 
